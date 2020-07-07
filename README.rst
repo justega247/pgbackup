@@ -8,7 +8,7 @@ Preparing for Development
 
 1. Ensure ``pip`` and ``pipenv`` are installed
 
-2. Clone repository: ``git clone git@github.com:justega247/pgbackup``
+2. Clone repository using ssh: ``git clone git@github.com:justega247/pgbackup``
 
 3. ``cd`` into repository
 
